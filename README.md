@@ -1,2 +1,2 @@
-# weater-dashboard
+# weather-dashboard
 A weather dashboard app
